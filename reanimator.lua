@@ -232,7 +232,10 @@ local BuiltInAnimationsR15 = {
     ["Russia"] = 8749319208,
     ["Pole🔥"] = 108168498821513,
     ["Boys a Liar"] = 15188441823,
-    ["Lil Whip'"] = 10280549156
+    ["Lil Whip'"] = 10280549156,
+    ["big swastika] = 94631359696320,
+    ["on knees eating"] = 72555904469135,
+    ["Bachata"] = 94769679405979
 }
 
     
