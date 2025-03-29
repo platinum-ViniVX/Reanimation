@@ -237,9 +237,6 @@ local BuiltInAnimationsR15 = {
     ["on knees eating"] = 72555904469135,
     ["Bachata"] = 94769679405979
 }
-
-    
-    
     local newAnimations = {
 -- Corrected position
     }
