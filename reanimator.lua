@@ -235,7 +235,7 @@ local BuiltInAnimationsR15 = {
     ["Lil Whip'"] = 10280549156,
     ["big swastika"] = 94631359696320,
     ["on knees eating"] = 72555904469135,
-    ["Bachata"] = 94769679405979
+    ["Bachata"] = 94769679405979,
     ["Ceiling Fan"] = 83650011406472
 }
     local newAnimations = {
