@@ -236,6 +236,7 @@ local BuiltInAnimationsR15 = {
     ["big swastika"] = 94631359696320,
     ["on knees eating"] = 72555904469135,
     ["Bachata"] = 94769679405979
+    ["Ceiling Fan"] = 83650011406472
 }
     local newAnimations = {
 -- Corrected position
